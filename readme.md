@@ -16,6 +16,12 @@ php bin/magento setup:static-content:deploy //ou php bin/magento setup:static-co
 ### Configurar cep de origem
 
 * Configuration -> Sales -> Shipping Settings -> Origin -> Zip Code
+```
+Exemplo :
+
+Com ponto ?  Sem Ponto ?  
+
+```
 
 ## Features
 
